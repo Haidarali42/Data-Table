@@ -1,0 +1,32 @@
+.container{
+    text-align: center;
+}
+.inputbox{
+    border-radius: 150px;
+    border-color: lightgrey;
+    border: 1px solid rgb(207, 207, 207);
+    color: rgb(156, 156, 156);
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(54, 54, 54, 0.06) 0px 1px 2px;
+    height: 70px;
+    width: fit-content;
+    height: 40px;
+    font-size: larger;
+    margin-bottom: 20px;
+}
+.input:focus{
+    outline: none;
+}
+.clearbtn{
+    width: fit-content;
+    height: 40px;
+    font-size: larger;
+    margin-left: 5px;
+    border-radius: 10px;
+    border-color: lightgrey;
+    color: rgb(156, 156, 156);
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(54, 54, 54, 0.06) 0px 1px 2px;
+    cursor: pointer;
+}
+
